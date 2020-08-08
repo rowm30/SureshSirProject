@@ -1,0 +1,120 @@
+.callactions {
+    width: 20%;
+    background: #f58634;
+    text-align: center;
+    padding: 0px 0px;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 600;
+    float: right;
+    margin-right: 35px;
+}
+
+.callactions p {
+    font-size: 14px;
+}
+.callactions a{ color:#fff;}
+
+
+@media only screen and (max-width:1199px){
+    .contactmins {
+    width: 32% !important;
+}
+}
+    .callactions {
+        width: 26%;}
+    @media only screen and (max-width:991px){
+    .contactmins {
+    width: 45% !important;right: -33px;
+}
+    }
+        @media only screen and (max-width:767px){
+         .contactmins {
+            width: 45% !important;right: 100px !important; top: 94% !important;
+             }
+            .callactions {
+            width: 35%;
+            margin-right: 0;
+            }
+
+#header.affix .virtualbtn img {
+    padding-bottom: 0;
+    height: auto !important;
+    margin: 0 !important;
+}
+           .navbar-collapse{width:100%;} 
+          .navbar-collapse.in {
+             overflow-y: visible !important;
+           }
+           .navbar-nav{margin:0;}
+          .dropdown-click{display:none !important;}
+        }
+            
+        @media only screen and (max-width:580px){
+    .contactmins {
+    width: 53% !important;
+    right: 100px !important;
+    top: -66% !important;
+}
+            .callactions {
+    width: 53%;
+    margin-right: 0;
+    margin-top: 15px;
+}
+
+.virtualbtn {
+    width: 110px;
+    margin-right: 0;
+    margin-top: 15px;
+}
+#header.affix .virtualbtn img {
+    padding-bottom: 0;
+    height: auto !important;
+    margin: 0 !important;
+}
+        }
+            @media only screen and (max-width:480px){
+    .contactmins {
+    width: 75% !important;
+    right: 77px !important;
+    top: -89% !important;
+}
+            }
+            
+            @media only screen and (max-width:414px){
+    .contactmins {
+    width: 75% !important;
+    right: 77px !important;
+    top: -165% !important;
+}
+            }
+            @media only screen and (max-width:375px){
+    .contactmins {
+    width: 100% !important;
+    right: 0px !important;
+    top: -140% !important;
+}
+.callactions {
+    width: 57%;
+    margin-right: 0;
+    /*margin-top: 0;*/
+}
+.callactions p {
+    font-size: 12px;
+}
+.virtualbtn {
+    width: 110px;
+    margin-right: 0;
+}
+#header.affix .virtualbtn img {
+    padding-bottom: 0;
+    height: auto !important;
+    margin: 0 !important;
+}
+div.new_cls-4.wevirtuall-banner {
+    background-position: 50% 10px!important;
+    height: 300px !important;
+}
+}
+            
+
